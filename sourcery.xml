@@ -1,7 +1,7 @@
 <application>
   <component name="SourceryConfigService">
     <option name="pluginVersion" value="0.12.7" />
-    <option name="sourceryExecutable" value="C:\Users\Shtor\AppData\Roaming\JetBrains\PyCharmCE2021.3\plugins\sourcery\sourcery_binaries\install\win\sourcery.exe" />
+    <option name="sourceryExecutable" value="C:\Users\Shtor\AppData\Local\JetBrains\Toolbox\apps\PyCharm-C\ch-0\222.4167.33.plugins\sourcery\sourcery_binaries\install\win\sourcery.exe" />
     <option name="sourceryProductName" />
     <option name="sourceryVersion" value="0.12.7" />
   </component>
