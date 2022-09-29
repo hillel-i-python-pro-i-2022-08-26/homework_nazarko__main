@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="result" type="AUTO_DETECTED" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="txt" type="requirements-pro.txt" />
     </extensionMap>
   </component>
 </application>
